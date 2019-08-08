@@ -1,6 +1,7 @@
 #!groovy
 
 
+
 def err_msg = ""
 def repo_name = "jenkins-pipeline-sample"
 def git_url = "git@sample.github.com:comefigo/${repo_name}.git"
